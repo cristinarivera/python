@@ -1,0 +1,3 @@
+a='Ejemplo'
+
+print a[:]
